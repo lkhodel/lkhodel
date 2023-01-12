@@ -1,6 +1,3 @@
-- Hi, I’m @lkhodel
-- I’m interested in machine learning, natural language, philosophy and abstract math
-- I’m currently studying fintech and machine learning
-- I’m looking to work on machine learning projects
-- In my free time I like to stay active, read and learn new things
-- Contact me at: https://www.linkedin.com/in/lkhodel/
+Welcome to my page. I'm a programmer with an interest in mathematics for 
+machine learning, natural language, philosophy (of language and mind) and 
+category theory.
